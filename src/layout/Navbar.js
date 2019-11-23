@@ -17,7 +17,7 @@ export default class Narbar extends React.Component {
               to="/"
               className="col s5 brand-logo left black-text brand-logo"
               style={{ fontFamily: 'cursive', marginLeft: 20, fontWeight: 'bold' }}>
-              <span style={{ color: '#fff' }}>giday</span>
+              <span style={{ color: '#fff' }}>Hoigiday</span>
             </Link>
             <ul id="nav-mobile" class="right hide-on-med-and-down">
               <li>
