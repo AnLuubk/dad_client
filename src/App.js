@@ -13,6 +13,7 @@ import Login from './auth/Login';
 import Register from './auth/Register';
 import PrivateRoute from './private-route/PrivateRoute';
 import Dashboard from './dashboard/Dashboard';
+import 'antd/dist/antd.css';
 
 // Check for token to keep user logged in
 if (localStorage.jwtToken) {

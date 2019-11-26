@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@babel/helper-create-regexp-features-plugin": "^7.7.4",
+    "antd": "^3.24.2",
     "axios": "^0.19.0",
     "classnames": "^2.2.6",
     "css-loader": "^3.2.0",
